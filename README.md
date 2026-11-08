@@ -1,6 +1,6 @@
 # Space Shooter: Last Chance
 
-Играть в браузере: https://makino-p.github.io/Space-Shooter-WebGL/
+Играть в браузере: https://makino-p.github.io/Space-Shoter-WebGL/
 
 WebGL-сборка игры на Unity 2019.4.
 
